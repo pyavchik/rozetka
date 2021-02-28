@@ -17,7 +17,7 @@ JUnit
 
 ### Steps to clone execute the tests
 ```
-git clone https://github.com/pyavchik/rozetka
+git clone https://github.com/pyavchik/rozetka.git
 cd rozetka
 mvn clean test -Dbrowser=chrome_docker
 mvn clean test -Dbrowser=chrome_mac
